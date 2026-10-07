@@ -96,7 +96,7 @@ export default function Navbar({ isDark, toggleTheme }: Props) {
 
               {/* Call button */}
               <a
-                href="tel:+919596353038"
+                href="tel:+917006692576"
                 className="hidden sm:flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold transition-all duration-300 hover:scale-105 hover:shadow-lg"
                 style={{
                   background: 'linear-gradient(135deg, #00A86B, #006B3F)',
@@ -149,12 +149,12 @@ export default function Navbar({ isDark, toggleTheme }: Props) {
             </a>
           ))}
           <a
-            href="tel:+919596353038"
+            href="tel:+917006692576"
             className="mt-4 flex items-center gap-2 px-6 py-3 rounded-full text-base font-semibold"
             style={{ background: 'linear-gradient(135deg, #00A86B, #006B3F)', color: '#fff' }}
           >
             <Phone size={16} />
-            +91 95963 53038
+            +91 70066 92576
           </a>
         </div>
       </div>

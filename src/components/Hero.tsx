@@ -141,7 +141,7 @@ export default function Hero({ isDark }: Props) {
             Explore Packages
           </a>
           <a
-            href="https://wa.me/919596353038"
+            href="https://wa.me/919796938586"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3.5 rounded-full text-sm font-semibold tracking-wide transition-all duration-300 hover:scale-105 flex items-center gap-2"
@@ -158,10 +158,10 @@ export default function Hero({ isDark }: Props) {
         </div>
 
         <div className="mt-12 flex flex-wrap items-center justify-center gap-6 text-sm animate-fadeInUp" style={{ animationDelay: '1.2s', animationFillMode: 'both' }}>
-          <div className="flex items-center gap-2" style={{ color: isDark ? 'rgba(255,255,255,0.7)' : 'rgba(10,10,10,0.65)' }}>
+          <a href="tel:+917006692576" className="flex items-center gap-2 transition-colors hover:text-emerald-500" style={{ color: isDark ? 'rgba(255,255,255,0.7)' : 'rgba(10,10,10,0.65)' }}>
             <Phone size={14} style={{ color: '#00A86B' }} />
-            +91 95963 53038
-          </div>
+            +91 70066 92576
+          </a>
           <div className="flex items-center gap-2" style={{ color: isDark ? 'rgba(255,255,255,0.7)' : 'rgba(10,10,10,0.65)' }}>
             <MapPin size={14} style={{ color: '#00A86B' }} />
             Srinagar, Kashmir

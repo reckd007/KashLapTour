@@ -141,7 +141,7 @@ export default function Packages({ isDark }: Props) {
 
                 <div className="pt-4" style={{ borderTop: isDark ? '1px solid rgba(255,255,255,0.08)' : '1px solid rgba(0,0,0,0.06)' }}>
                   <a
-                    href="https://wa.me/919596353038"
+                    href="https://wa.me/919796938586"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center gap-2 w-full px-4 py-3 rounded-full text-sm font-semibold transition-all duration-300 hover:scale-[1.02]"
@@ -161,7 +161,7 @@ export default function Packages({ isDark }: Props) {
         {/* Book Your Plan CTA */}
         <div className="mt-14 text-center">
           <a
-            href="https://wa.me/919596353038"
+            href="https://wa.me/919796938586"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2.5 px-10 py-4 rounded-full text-base font-semibold tracking-wide transition-all duration-300 hover:scale-105"
@@ -178,7 +178,7 @@ export default function Packages({ isDark }: Props) {
           </p>
           <div className="mt-3 flex items-center justify-center gap-5">
             <a
-              href="https://wa.me/919596353038"
+              href="https://wa.me/919796938586"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 text-sm font-medium transition-colors hover:text-emerald-500"
@@ -189,7 +189,7 @@ export default function Packages({ isDark }: Props) {
             </a>
             <span style={{ color: isDark ? 'rgba(255,255,255,0.2)' : 'rgba(10,10,10,0.2)' }}>·</span>
             <a
-              href="tel:+919596353038"
+              href="tel:+917006692576"
               className="flex items-center gap-1.5 text-sm font-medium transition-colors hover:text-emerald-500"
               style={{ color: isDark ? 'rgba(255,255,255,0.7)' : 'rgba(10,10,10,0.7)' }}
             >

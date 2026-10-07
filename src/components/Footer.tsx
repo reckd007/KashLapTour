@@ -63,18 +63,15 @@ export default function Footer({ isDark }: Props) {
               <li className="flex items-start gap-3">
                 <Phone size={16} style={{ color: '#00A86B', marginTop: 2 }} />
                 <div>
-                  <a href="tel:+919596353038" className="text-sm text-white/60 hover:text-emerald-400 transition-colors block">
-                    +91 95963 53038
-                  </a>
-                  <a href="tel:+919596353039" className="text-sm text-white/60 hover:text-emerald-400 transition-colors block">
-                    +91 95963 53039
+                  <a href="tel:+917006692576" className="text-sm text-white/60 hover:text-emerald-400 transition-colors block">
+                    +91 70066 92576
                   </a>
                 </div>
               </li>
               <li className="flex items-start gap-3">
                 <Mail size={16} style={{ color: '#00A86B', marginTop: 2 }} />
-                <a href="mailto:kashlaptour@gmail.com" className="text-sm text-white/60 hover:text-emerald-400 transition-colors">
-                  kashlaptour@gmail.com
+                <a href="mailto:info@kashlaptourandtravels.com" className="text-sm text-white/60 hover:text-emerald-400 transition-colors">
+                  info@kashlaptourandtravels.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
@@ -99,7 +96,7 @@ export default function Footer({ isDark }: Props) {
               Ready to explore Kashmir? Reach out and let us craft your perfect journey.
             </p>
             <a
-              href="https://wa.me/919596353038"
+              href="https://wa.me/919796938586"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 w-full px-5 py-3 rounded-full text-sm font-semibold transition-all duration-300 hover:scale-105"
@@ -113,7 +110,7 @@ export default function Footer({ isDark }: Props) {
               Chat on WhatsApp
             </a>
             <a
-              href="tel:+919596353038"
+              href="tel:+917006692576"
               className="flex items-center justify-center gap-2 w-full px-5 py-3 mt-3 rounded-full text-sm font-semibold transition-all duration-300 hover:scale-105"
               style={{
                 background: 'rgba(255,255,255,0.06)',
